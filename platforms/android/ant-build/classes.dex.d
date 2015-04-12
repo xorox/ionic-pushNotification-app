@@ -1,0 +1,22 @@
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes.dex : \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$1.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$2.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$3.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/ionicframework/cordovanotification293644/BuildConfig.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/ionicframework/cordovanotification293644/CordovaApp.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/ionicframework/cordovanotification293644/Manifest$permission.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/ionicframework/cordovanotification293644/Manifest.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/ionicframework/cordovanotification293644/R$attr.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/ionicframework/cordovanotification293644/R$drawable.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/ionicframework/cordovanotification293644/R$string.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/ionicframework/cordovanotification293644/R$xml.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/ionicframework/cordovanotification293644/R.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/plugin/gcm/CordovaGCMBroadcastReceiver.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/plugin/gcm/GCMIntentService.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/plugin/gcm/PushHandlerActivity.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/com/plugin/gcm/PushPlugin.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/dexedLibs/classes-a05cea2e34c72ef243fb91bd03b21789.jar \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/dexedLibs/gcm-dc95b32ddc4bcc9aba458972dc2faae6.jar \
+/Users/robinengbersen/Software-Development/201504_meanjs_ionic_pushnotification/cordova-notification/platforms/android/ant-build/dexedLibs/android-support-v13-0243e10c8b3e67e8188a30e66a4bb3c3.jar \

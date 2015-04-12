@@ -1,0 +1,30 @@
+# view AndroidManifest.xml #generated:24
+-keep class com.arellomobile.android.push.AlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class com.arellomobile.android.push.MessageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.arellomobile.android.push.PushGCMIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class com.arellomobile.android.push.PushHandlerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.arellomobile.android.push.PushWebview { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.google.android.gcm.GCMBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:7
+-keep class com.ionicframework.cordovanotification293644.CordovaApp { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class com.plugin.gcm.CordovaGCMBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.plugin.gcm.GCMIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.plugin.gcm.PushHandlerActivity { <init>(...); }
+
